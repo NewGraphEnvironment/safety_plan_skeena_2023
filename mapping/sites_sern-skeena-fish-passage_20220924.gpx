@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="54.018319860940686" minlon="-128.461832680074821" maxlat="55.746277877965269" maxlon="-126.021687768562089"/></metadata>              
+<wpt lat="54.594736458458165" lon="-126.447806916703158">
+  <name>3054</name>
+  <desc>hab_con mod 1.81km st rearing 0km st spawning Sampling could provide insight into how high salmon acsend in this watershed.</desc>
+</wpt>
+<wpt lat="54.430989945432188" lon="-128.037654097540468">
+  <name>8414</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Modelled 11% gradient upstream for 500m.  close to Clore River so potential high values.</desc>
+</wpt>
+<wpt lat="54.808948811155254" lon="-127.815414623436709">
+  <name>8454</name>
+  <desc>sfc high 0km st rearing 0km st spawning BT and DV confirmed. Two SFC priority sites upstream too.</desc>
+</wpt>
+<wpt lat="54.8115335819652" lon="-127.811370950818841">
+  <name>8455</name>
+  <desc>sfc high 0km st rearing 0km st spawning SFC ranked as high priority. BT and DV confirmed.</desc>
+</wpt>
+<wpt lat="54.829396411188597" lon="-127.729348199029985">
+  <name>8465</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Fish captured downstream.  Smaller potential habitat gain.</desc>
+</wpt>
+<wpt lat="54.767872642700247" lon="-127.599941410343561">
+  <name>8478</name>
+  <desc>sfc mod 0km st rearing 0km st spawning DV known kupstream at cascade. Small steeper habitat.</desc>
+</wpt>
+<wpt lat="54.828403054570202" lon="-127.574355515797677">
+  <name>8511</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Small watershed. Close to larger stream with salmon though so may have some decent hab values.</desc>
+</wpt>
+<wpt lat="54.763316075163679" lon="-127.367728536261225">
+  <name>8518</name>
+  <desc>sfc mod 0.06km st rearing 0km st spawning Fish sampling already conducted but habitat confirmation may be helpful.</desc>
+</wpt>
+<wpt lat="54.812696960933614" lon="-127.739613945778757">
+  <name>8525</name>
+  <desc>sfc mod 0.87km st rearing 0km st spawning Smaller stream with DV upstream. Outlet drop.</desc>
+</wpt>
+<wpt lat="54.808146656841714" lon="-127.721317212546808">
+  <name>8527</name>
+  <desc>sfc mod 0km st rearing 0km st spawning DV confirmed upstream and SFC report indicates large outlet drop. Smaller stream though.</desc>
+</wpt>
+<wpt lat="54.805181196191349" lon="-127.712853568391225">
+  <name>8530</name>
+  <desc>sfc high 0km st rearing 0km st spawning Duplicate.  Matched to wrong modelled crossing so corrected in bcfishpass.</desc>
+</wpt>
+<wpt lat="54.811846282894784" lon="-127.700706158166966">
+  <name>8532</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Habitat confirmation would be helpful.  Fish confirmed here.</desc>
+</wpt>
+<wpt lat="54.789769221921482" lon="-127.567067762073791">
+  <name>8543</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Just slightly highe than steelhead model criteria.  Close to McDonell Lake with fish upstream</desc>
+</wpt>
+<wpt lat="54.790162926303992" lon="-127.645146310868071">
+  <name>8545</name>
+  <desc>sfc high 0km st rearing 0km st spawning RB confirmed upstream. SFC recomends habitat assessment</desc>
+</wpt>
+<wpt lat="54.793088546625782" lon="-127.600423302032183">
+  <name>8547</name>
+  <desc>sfc mod 0km st rearing 0km st spawning CT (and potentially RB) confirmed.  Small lake mapped upstream.</desc>
+</wpt>
+<wpt lat="54.046454876505479" lon="-127.30835616879466">
+  <name>8742</name>
+  <desc>sfc high 1.83km st rearing 0km st spawning Remediated</desc>
+</wpt>
+<wpt lat="54.524378490832831" lon="-126.814094681392859">
+  <name>57793</name>
+  <desc>cwf high 11.06km st rearing 2.57km st spawning NA</desc>
+</wpt>
+<wpt lat="54.93290688505688" lon="-127.482197019574656">
+  <name>57978</name>
+  <desc>cwf high 2.43km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.970868569825583" lon="-127.285844719769543">
+  <name>58067</name>
+  <desc>cwf high 4.87km st rearing 3.58km st spawning NA</desc>
+</wpt>
+<wpt lat="54.67520600751692" lon="-127.020432062613793">
+  <name>58159</name>
+  <desc>hab_con mod 7.22km st rearing 0km st spawning Restoration likely forthcoming so sampling could inform monitoring program.  </desc>
+</wpt>
+<wpt lat="54.792305794485088" lon="-127.181079431311687">
+  <name>58242</name>
+  <desc>cwf high 12.16km st rearing 5.53km st spawning NA</desc>
+</wpt>
+<wpt lat="54.572225088615312" lon="-126.808973544137771">
+  <name>123377</name>
+  <desc>hab_con high 12.39km st rearing 4.87km st spawning Would be good to get baseline conditions for species composition and abundance.</desc>
+</wpt>
+<wpt lat="54.621604699263038" lon="-126.854005789543578">
+  <name>123392</name>
+  <desc>cwf high 10.8km st rearing 2.87km st spawning NA</desc>
+</wpt>
+<wpt lat="54.620812282427167" lon="-126.854858090278952">
+  <name>123393</name>
+  <desc>cwf high 10.91km st rearing 2.87km st spawning NA</desc>
+</wpt>
+<wpt lat="54.639033649247672" lon="-126.878185602700583">
+  <name>123426</name>
+  <desc>cwf high 19.62km st rearing 3.54km st spawning NA</desc>
+</wpt>
+<wpt lat="54.855819159695045" lon="-126.987461392480441">
+  <name>123697</name>
+  <desc>cwf high 11.44km st rearing 6.63km st spawning NA</desc>
+</wpt>
+<wpt lat="54.847961034206321" lon="-127.002071284632777">
+  <name>123699</name>
+  <desc>cwf high 12.18km st rearing 7.15km st spawning NA</desc>
+</wpt>
+<wpt lat="55.093980916698015" lon="-127.180562665419984">
+  <name>123794</name>
+  <desc>hab_con mod 0km st rearing 0km st spawning Sampling would provide insight into salmon use but unliley to have time.</desc>
+</wpt>
+<wpt lat="55.094731381393785" lon="-127.185501754764303">
+  <name>123795</name>
+  <desc>hab_con mod 0km st rearing 0km st spawning Sampling could provide insight into salmon use but time limited so unlikely to happen this year.</desc>
+</wpt>
+<wpt lat="54.659539996639488" lon="-127.022770246754703">
+  <name>124500</name>
+  <desc>hab_con high 12.04km st rearing 1.84km st spawning Species compositionupstream and downstream could be insighful for prioritization and baseline if Telkwa Coal helps move this one ahead.</desc>
+</wpt>
+<wpt lat="54.620791687247639" lon="-126.919487357861328">
+  <name>124504</name>
+  <desc>cwf high 9.97km st rearing 5.67km st spawning NA</desc>
+</wpt>
+<wpt lat="54.591902936823224" lon="-126.81879358016738">
+  <name>195288</name>
+  <desc>cwf high 3.16km st rearing 0.77km st spawning NA</desc>
+</wpt>
+<wpt lat="54.593182059236113" lon="-126.832777664611243">
+  <name>195290</name>
+  <desc>cwf high 3.79km st rearing 1.22km st spawning NA</desc>
+</wpt>
+<wpt lat="54.620085926864604" lon="-127.140750319755867">
+  <name>195559</name>
+  <desc>cwf high 2km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.442262052400537" lon="-126.757149362878749">
+  <name>195943</name>
+  <desc>cwf high 9.05km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.446760465246555" lon="-126.749455729610688">
+  <name>195944</name>
+  <desc>cwf high 8.31km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.057949265335793" lon="-126.70931336780437">
+  <name>197360</name>
+  <desc>hab_con mod 2km st rearing 0.26km st spawning Prov engineers may want baseline monitoring data.</desc>
+</wpt>
+<wpt lat="54.157190553876191" lon="-126.800514023051392">
+  <name>197365</name>
+  <desc>model_review mod 0.66km st rearing 0km st spawning Flow looks good in photos.</desc>
+</wpt>
+<wpt lat="54.182093255820945" lon="-126.839844953776691">
+  <name>197379</name>
+  <desc>sfc high 0.84km st rearing 0.12km st spawning Would be good to know what fish are here. Good site for tagging?</desc>
+</wpt>
+<wpt lat="54.236136607527051" lon="-126.632239585699821">
+  <name>197640</name>
+  <desc>hab_con mod 4.65km st rearing 1.96km st spawning Design in progress so sampling could inform monitoring program.  Unlikley to have time for this this year though.</desc>
+</wpt>
+<wpt lat="54.51823614345777" lon="-126.442776647005033">
+  <name>197653</name>
+  <desc>cwf high 7.39km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.519256365515801" lon="-126.420970600547008">
+  <name>197658</name>
+  <desc>sfc mod 5.3km st rearing 4.99km st spawning Not likely to get here due to timeing constraints.</desc>
+</wpt>
+<wpt lat="54.521771657731612" lon="-126.369981540486819">
+  <name>197663</name>
+  <desc>sfc mod 19.06km st rearing 9.82km st spawning Backwatering was completed anumber of years ago so samping could inform long term monitoring.</desc>
+</wpt>
+<wpt lat="54.620983930646894" lon="-126.919289309522554">
+  <name>197668</name>
+  <desc>cwf high 10km st rearing 5.69km st spawning NA</desc>
+</wpt>
+<wpt lat="54.191884040976376" lon="-127.365921675540974">
+  <name>197926</name>
+  <desc>model_review mod 1.98km st rearing 0km st spawning At Gidimt'en Camp.  Maybe best left for another time.</desc>
+</wpt>
+<wpt lat="54.231379972795317" lon="-127.158596996033751">
+  <name>197951</name>
+  <desc>model_review mod 1.24km st rearing 0km st spawning Large lake headed stream with fish observed.</desc>
+</wpt>
+<wpt lat="54.227163585855926" lon="-126.996614064483879">
+  <name>197954</name>
+  <desc>model_review mod 0.43km st rearing 0km st spawning Fish upstream. Good flow. Ford downstream.</desc>
+</wpt>
+<wpt lat="54.360645767830938" lon="-126.791801851511664">
+  <name>197962</name>
+  <desc>sfc mod 4.89km st rearing 2.98km st spawning Site remediated. Long term monitoring required but could wait another year as work was conducted late last summer and we might expect CO moving in this fall..</desc>
+</wpt>
+<wpt lat="54.402271299451989" lon="-126.035209838381533">
+  <name>197967</name>
+  <desc>hab_con high 26.12km st rearing 7.17km st spawning Crossing remediated so samling could help inform long term monitoring.</desc>
+</wpt>
+<wpt lat="54.476033436814262" lon="-126.215929184564985">
+  <name>197974</name>
+  <desc>cwf high 15.48km st rearing 1.61km st spawning NA</desc>
+</wpt>
+<wpt lat="54.475775976944263" lon="-126.209025520866106">
+  <name>197975</name>
+  <desc>hab_con mod 17.76km st rearing 9.55km st spawning Should a remediation plan come together sampling could help infrom long term monitoring.  Good candidate for riparian rencing as well as culvert replacement.</desc>
+</wpt>
+<wpt lat="54.018319860940686" lon="-127.376067556933208">
+  <name>198008</name>
+  <desc>hab_con mod 0km st rearing 0km st spawning Site should be reassessed as we surveyed the wrong upstream channel in 2021.</desc>
+</wpt>
+<wpt lat="54.324587508790913" lon="-127.337251422698117">
+  <name>198016</name>
+  <desc>hab_con mod 0km st rearing 0km st spawning Hab con conducted.  Species presence would be insightful. </desc>
+</wpt>
+<wpt lat="54.224867088579622" lon="-127.240415750761755">
+  <name>198022</name>
+  <desc>model_review mod 1km st rearing 0km st spawning Small stream with likley beaver activity upstream. Fish points upstream. Upstream culvert has note sof good flow and fish present.</desc>
+</wpt>
+<wpt lat="54.508438011856605" lon="-126.306223336551881">
+  <name>198048</name>
+  <desc>hab_con mod 12.93km st rearing 1.83km st spawning Sampling could help build weight of evidence that no connection exists to Bulkley mainstem.</desc>
+</wpt>
+<wpt lat="54.511414511746111" lon="-126.298625481294778">
+  <name>198049</name>
+  <desc>hab_con mod 12.26km st rearing 1.16km st spawning Here or hwy 16 sampling could help understand downstream connectivity (or likely lack thereof) at railway. If CO get through as fry they may not get back out to mainstem.</desc>
+</wpt>
+<wpt lat="54.146763019406137" lon="-126.796746753937057">
+  <name>198060</name>
+  <desc>model_review mod 2.03km st rearing 0km st spawning Was passable when assessed in 2021.</desc>
+</wpt>
+<wpt lat="54.135837620111744" lon="-127.111667968472872">
+  <name>198064</name>
+  <desc>hab_con mod 0.81km st rearing 0km st spawning Hab con completed. Sampling may be enlightening but habitat not stellar.</desc>
+</wpt>
+<wpt lat="54.490377876214744" lon="-126.217827043389633">
+  <name>198065</name>
+  <desc>cwf high 13.49km st rearing 1.12km st spawning NA</desc>
+</wpt>
+<wpt lat="54.560597923437953" lon="-126.831081437879334">
+  <name>198066</name>
+  <desc>hab_con high 14.77km st rearing 4.87km st spawning Great candidate for channel redirection and would be good to get idea of baseline species composition/abundance.</desc>
+</wpt>
+<wpt lat="54.517530124321702" lon="-126.442717920937852">
+  <name>1001800067</name>
+  <desc>cwf high 7.47km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.447286765479163" lon="-126.748311225627987">
+  <name>1001800255</name>
+  <desc>cwf high 8.22km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.484649405753629" lon="-126.344308554653708">
+  <name>1001800403</name>
+  <desc>cwf high 2.53km st rearing 0.13km st spawning NA</desc>
+</wpt>
+<wpt lat="54.657511304508589" lon="-126.87993338645262">
+  <name>1001800670</name>
+  <desc>cwf high 6.96km st rearing 0.58km st spawning NA</desc>
+</wpt>
+<wpt lat="54.484589499718503" lon="-127.351619856895766">
+  <name>1001800865</name>
+  <desc>cwf high 4.66km st rearing 0.37km st spawning NA</desc>
+</wpt>
+<wpt lat="55.128466869352884" lon="-126.801048216279526">
+  <name>1001801039</name>
+  <desc>cwf high 1.93km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.52104502233356" lon="-126.443808407790229">
+  <name>1001801071</name>
+  <desc>cwf high 7.05km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.494653916053089" lon="-126.191237437545624">
+  <name>1001801115</name>
+  <desc>cwf high 7.57km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.493826764278779" lon="-126.204587167829175">
+  <name>1001801123</name>
+  <desc>cwf high 12.5km st rearing 0.13km st spawning NA</desc>
+</wpt>
+<wpt lat="54.650125199433319" lon="-126.876046437785405">
+  <name>1001801328</name>
+  <desc>cwf high 18.34km st rearing 2.26km st spawning NA</desc>
+</wpt>
+<wpt lat="54.423641880732639" lon="-126.12621912200386">
+  <name>1001802047</name>
+  <desc>cwf high 4.03km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.590941198130515" lon="-126.436953159942732">
+  <name>1001802069</name>
+  <desc>cwf high 3.51km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.146377160215984" lon="-126.021687768562089">
+  <name>1001802239</name>
+  <desc>cwf high 1.5km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="55.037426272430388" lon="-127.305240177290457">
+  <name>1001802374</name>
+  <desc>cwf high 3.14km st rearing 0.29km st spawning NA</desc>
+</wpt>
+<wpt lat="54.529428115638261" lon="-126.823874531630224">
+  <name>1001802482</name>
+  <desc>cwf high 11.95km st rearing 3.46km st spawning NA</desc>
+</wpt>
+<wpt lat="54.609679649964797" lon="-126.922437549838662">
+  <name>1001802798</name>
+  <desc>cwf high 8.65km st rearing 4.35km st spawning NA</desc>
+</wpt>
+<wpt lat="55.239408172759639" lon="-127.601840612459753">
+  <name>1001803294</name>
+  <desc>cwf high 2.29km st rearing 2.29km st spawning NA</desc>
+</wpt>
+<wpt lat="55.106197923135312" lon="-126.690017167168151">
+  <name>1001803607</name>
+  <desc>cwf high 2.52km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.450256918900394" lon="-126.098849747782424">
+  <name>1001804538</name>
+  <desc>cwf high 3.32km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.422770309606747" lon="-126.071621132349264">
+  <name>1001805019</name>
+  <desc>cwf high 3.59km st rearing 0km st spawning NA</desc>
+</wpt>
+<wpt lat="54.425503412451768" lon="-126.764741946599145">
+  <name>1001805507</name>
+  <desc>cwf high 14.01km st rearing 1.54km st spawning NA</desc>
+</wpt>
+<wpt lat="55.226490134717757" lon="-126.941254721305995">
+  <name>1001806259</name>
+  <desc>cwf high 1.66km st rearing 0.09km st spawning NA</desc>
+</wpt>
+<wpt lat="55.318422447682963" lon="-127.676329840212105">
+  <name>1008300001</name>
+  <desc>model_review high 1.91km st rearing 1.38km st spawning Very close to Skeena mainstem. On aerial imagery appears as though stream might be difficult to loacate and not a straight forward connection.</desc>
+</wpt>
+<wpt lat="55.311610585413341" lon="-127.663566801791532">
+  <name>1008300023</name>
+  <desc>model_review high 1.02km st rearing 0km st spawning Private driveway on private land. CO fry observed upstream during salvage (FISS).</desc>
+</wpt>
+<wpt lat="55.399318097876815" lon="-127.676524797904264">
+  <name>1008300024</name>
+  <desc>model_review high 4.17km st rearing 0km st spawning No fisheries information</desc>
+</wpt>
+<wpt lat="55.129105233715848" lon="-128.005283116996281">
+  <name>1008300095</name>
+  <desc>sfc high 19.6km st rearing 1.83km st spawning Phase 1 required.  Backwater location. Large stream wtih many species confirmed upstream.</desc>
+</wpt>
+<wpt lat="55.454094590259324" lon="-127.727201841246355">
+  <name>1008300103</name>
+  <desc>model_review high 5.55km st rearing 0.2km st spawning Coho upstream with significant amounts of lake and wetland habitat.</desc>
+</wpt>
+<wpt lat="55.487784867515067" lon="-127.747477082664645">
+  <name>1008300104</name>
+  <desc>model_review high 0.7km st rearing 0km st spawning CO points upstream and downstream.</desc>
+</wpt>
+<wpt lat="55.496626500037856" lon="-127.761361654054767">
+  <name>1008300105</name>
+  <desc>model_review high 1.62km st rearing 0km st spawning Coho and CT obs immediately downstream of the crossing.</desc>
+</wpt>
+<wpt lat="55.483706431126627" lon="-127.849784832887394">
+  <name>1008300118</name>
+  <desc>model_review high 0km st rearing 0km st spawning Access to Afleck Lake. No fish info.</desc>
+</wpt>
+<wpt lat="55.732038316833133" lon="-128.461832680074821">
+  <name>1008300124</name>
+  <desc>sfc high 2.04km st rearing 0km st spawning Fish sampling completed by SFC. Confirm if this road has been deactivated.</desc>
+</wpt>
+<wpt lat="55.51101962709869" lon="-127.656107658084039">
+  <name>1008300128</name>
+  <desc>model_review high 1.33km st rearing 0.66km st spawning Downstream gradient models at 10% with potentially tight confinement so some potential for natural barrier downstream.</desc>
+</wpt>
+<wpt lat="55.197785589915064" lon="-127.743789535706895">
+  <name>1008300142</name>
+  <desc>model_review high 1.54km st rearing 1.53km st spawning Road mapped as approaching from either side.</desc>
+</wpt>
+<wpt lat="55.186122523544967" lon="-127.760631693832096">
+  <name>1008300144</name>
+  <desc>model_review high 1km st rearing 0km st spawning Could be difficult surveying due to wetland type terrain.</desc>
+</wpt>
+<wpt lat="55.088135363065639" lon="-128.020887144914781">
+  <name>1008300157</name>
+  <desc>sfc mod 0.09km st rearing 0.09km st spawning PK noted upstream and downstream.  Rock obstacles noted upstream 400 and 500m in both Shandillas </desc>
+</wpt>
+<wpt lat="55.493438371867931" lon="-127.811714261172142">
+  <name>1008300161</name>
+  <desc>model_review high 0.92km st rearing 0km st spawning Private loand 200m downstream nd 400m upstream.</desc>
+</wpt>
+<wpt lat="55.508584129401292" lon="-127.843601022976685">
+  <name>1008300162</name>
+  <desc>model_review high 0km st rearing 0km st spawning Provides access to Pentz Lake</desc>
+</wpt>
+<wpt lat="55.544454983311489" lon="-127.907990762790575">
+  <name>1008300163</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Wetlands pstream.  Not far from Kispiox.</desc>
+</wpt>
+<wpt lat="55.279381322747206" lon="-128.071871797892584">
+  <name>1008300178</name>
+  <desc>model_review mod 1.27km st rearing 0.47km st spawning Stream network looks all over the place here.  May not be straight forward to find channel.</desc>
+</wpt>
+<wpt lat="55.288832570056464" lon="-128.081729421975467">
+  <name>1008300188</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Wetland/lake area upstream.</desc>
+</wpt>
+<wpt lat="55.400112488552864" lon="-128.169156873206532">
+  <name>1008300437</name>
+  <desc>model_review high 3.18km st rearing 1.56km st spawning Wetland type area.  May be difficult to find channel</desc>
+</wpt>
+<wpt lat="55.407254960920433" lon="-128.170397207451913">
+  <name>1008300440</name>
+  <desc>model_review high 2.89km st rearing 0km st spawning Downstream of SFC Map reference 15. SFC indicate FHAP completed in 2008.</desc>
+</wpt>
+<wpt lat="55.406447896573297" lon="-128.214113412903998">
+  <name>1008300465</name>
+  <desc>sfc mod 0km st rearing 0km st spawning SFC references FHAP in 2008.  No streamline apparent above the road but SFC report mentions mapping error in imap...</desc>
+</wpt>
+<wpt lat="55.503254727004048" lon="-127.788719248873662">
+  <name>1008300483</name>
+  <desc>model_review high 5.23km st rearing 0km st spawning Private land.  Need to approach landowner about access. May be bridge but difficult to tell. Historic restoration work on this stream by AMEC and McElhanney.</desc>
+</wpt>
+<wpt lat="55.428020543905198" lon="-127.737152737297237">
+  <name>1008300492</name>
+  <desc>model_review high 15.26km st rearing 6.36km st spawning Private land. Difficult to tell if this crossing is present. Seems likely due to amount of buildings on otherside of stream from main farm yard.</desc>
+</wpt>
+<wpt lat="55.263783069311209" lon="-127.748883443988291">
+  <name>1008300849</name>
+  <desc>model_review high 4.66km st rearing 0.16km st spawning Known PK spawning locations downstream.</desc>
+</wpt>
+<wpt lat="55.256570473963912" lon="-127.750132215276111">
+  <name>1008300856</name>
+  <desc>model_review mod 1.2km st rearing 0km st spawning Wetland areas upsteam.  Some areas upstream look like gravels from aerial imagery. Streams are tagged as intermittent about 350m upstream.</desc>
+</wpt>
+<wpt lat="55.094105345508481" lon="-127.917160854595906">
+  <name>1008300970</name>
+  <desc>sfc mod 1.35km st rearing 0.06km st spawning SFC mod priority with cost/benefit noted as required. Surveying upstream crossing could be enlightening. Downstream is private land.</desc>
+</wpt>
+<wpt lat="55.660131230425058" lon="-128.288253319100249">
+  <name>1008301137</name>
+  <desc>model_review high 2.54km st rearing 0.62km st spawning CO and PK points in Kispioox just downstream.</desc>
+</wpt>
+<wpt lat="55.710501234580882" lon="-128.383665176926741">
+  <name>1008301242</name>
+  <desc>model_review mod 0.49km st rearing 0km st spawning Road may be deactivated. Suspect difficult surveying due to wetalnd areas.  </desc>
+</wpt>
+<wpt lat="55.576525507853411" lon="-127.997509091744874">
+  <name>1008301290</name>
+  <desc>model_review mod 0.33km st rearing 0.33km st spawning Private land.  Road difficult to make out on aerial imagery.</desc>
+</wpt>
+<wpt lat="55.432956421599023" lon="-127.730323133623173">
+  <name>1008301326</name>
+  <desc>model_review high 2.8km st rearing 0km st spawning Very close to Hevenor Creek with numerous species downstream.  PK and CM spawning locations just downstrream of confluence. Private land crossing.  Seventeen mile road crossing just upstream.</desc>
+</wpt>
+<wpt lat="55.086588357038814" lon="-128.122113304898647">
+  <name>1008301446</name>
+  <desc>model_review high 1.37km st rearing 1.37km st spawning Private land.  Need to knock on door for access.</desc>
+</wpt>
+<wpt lat="55.678677236998261" lon="-127.993847401046622">
+  <name>1008301747</name>
+  <desc>sfc mod 0km st rearing 0km st spawning SFC work conducted but no formal hab con. Smaller system</desc>
+</wpt>
+<wpt lat="55.642897894366897" lon="-127.981132505204187">
+  <name>1008301754</name>
+  <desc>model_review high 3.41km st rearing 0km st spawning FISS site notes indicate high value habitat.  NFC at upper site. Suspect distribution limit is open wetland area well upstream of  second crossing up.</desc>
+</wpt>
+<wpt lat="55.639943552050546" lon="-127.900150832768745">
+  <name>1008301892</name>
+  <desc>model_review high 1.8km st rearing 0km st spawning Stream may not be located where mapped. Suspect main crossing is futher to the east a bit.</desc>
+</wpt>
+<wpt lat="55.339942592320718" lon="-128.290936574967532">
+  <name>1008301923</name>
+  <desc>model_review mod 2.08km st rearing 0km st spawning Crossing is way up in the mountains.  Although there are no sample sites I would think that forestry would have fish info for this area.</desc>
+</wpt>
+<wpt lat="55.409896635503621" lon="-128.205468473496865">
+  <name>1008301994</name>
+  <desc>sfc mod 0.01km st rearing 0km st spawning SFC completed FHAP.CO and CT.  Habitat models as 8% upstream. </desc>
+</wpt>
+<wpt lat="54.943055579048554" lon="-127.58499197266643">
+  <name>1008302085</name>
+  <desc>model_review high 1.28km st rearing 0.83km st spawning CO not too far downstream.  CT upstream. Maybe be bridge.</desc>
+</wpt>
+<wpt lat="55.679876951053053" lon="-128.37799165733415">
+  <name>1008302116</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Cascade at road. Decent size lake with CT and MW.</desc>
+</wpt>
+<wpt lat="55.386991370777807" lon="-127.625807490861632">
+  <name>1008302257</name>
+  <desc>model_review high 4.81km st rearing 0km st spawning No fisheries information.  </desc>
+</wpt>
+<wpt lat="55.746277877965269" lon="-128.326889539828642">
+  <name>1008302324</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Small lake upstream.  Road deactivated?</desc>
+</wpt>
+<wpt lat="55.631359382756756" lon="-128.057484117061904">
+  <name>1008302371</name>
+  <desc>model_review high 1.95km st rearing 0km st spawning CO and PK doenstream with CT upsstream.</desc>
+</wpt>
+<wpt lat="55.646490657794729" lon="-128.088375098241556">
+  <name>1008302377</name>
+  <desc>model_review high 9.19km st rearing 3.32km st spawning Falls at end of reach 3 on main trib (see FISS sites for details).  CT present upstream.</desc>
+</wpt>
+<wpt lat="55.656458565025012" lon="-128.32501115113962">
+  <name>1008302403</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Numerous sample sites upsteam with no fish noted.  AT 1km upstream gradient noted as 17%.</desc>
+</wpt>
+<wpt lat="55.517865211947566" lon="-127.922232016507664">
+  <name>1008302422</name>
+  <desc>model_review mod 2.84km st rearing 0km st spawning CT and DV downstream.  Small lake upstream.</desc>
+</wpt>
+<wpt lat="55.475729910076893" lon="-127.837088568076069">
+  <name>1008302518</name>
+  <desc>model_review mod 0.15km st rearing 0km st spawning Numerous wetlands upstream but stream habitat likely limited. CH spawning noted just downstream in McCully.</desc>
+</wpt>
+<wpt lat="55.662853379624408" lon="-128.008274188183861">
+  <name>1008302758</name>
+  <desc>model_review mod 0km st rearing 0km st spawning Difficult to tell if road is there.  Suspect backwtered crossing if CBS present.</desc>
+</wpt>
+<wpt lat="55.099265401210943" lon="-127.964712092194901">
+  <name>1008302857</name>
+  <desc>model_review high 2.42km st rearing 0.93km st spawning Railway.  Difficult access.</desc>
+</wpt>
+<wpt lat="55.214935602318086" lon="-127.673495099894041">
+  <name>1008302868</name>
+  <desc>model_review high 1.51km st rearing 1.3km st spawning No obvious access tothis site.</desc>
+</wpt>
+<wpt lat="55.18228735445927" lon="-127.736345068401434">
+  <name>1008302869</name>
+  <desc>sfc high 0km st rearing 0km st spawning Railway crossing. Phase 1 not completed but SFC references work from 2000, and 2015.  </desc>
+</wpt>
+<wpt lat="54.380086399266261" lon="-126.737746240004725">
+  <name>1014000009</name>
+  <desc>model_review mod 12.37km st rearing 3.81km st spawning Design already completed by Steve Andrade.  Plugging issues. Dry at time of photos from Steve.</desc>
+</wpt>
+<wpt lat="54.324980143974315" lon="-126.885372103816863">
+  <name>1014000057</name>
+  <desc>model_review mod 1.15km st rearing 0km st spawning Large wetlands upstream and close to Morice mainstem.</desc>
+</wpt>
+<wpt lat="54.131665521191003" lon="-127.263818625773098">
+  <name>1014000255</name>
+  <desc>model_review mod 0.78km st rearing 0km st spawning Phase 1 needed. Larger system with channel visibe in aerial imagery.</desc>
+</wpt>
+<wpt lat="54.287653943490987" lon="-126.976661152561149">
+  <name>1014000571</name>
+  <desc>model_review mod 4.56km st rearing 0.17km st spawning Heavily logged upstream and many branches upstream are classed as intermittent.</desc>
+</wpt>
+<wpt lat="54.05842959418375" lon="-127.244476192208765">
+  <name>1014000666</name>
+  <desc>sfc high 0km st rearing 0km st spawning SFC site with fish point and lake upstream.</desc>
+</wpt>
+<wpt lat="54.230593506765686" lon="-126.848927301109725">
+  <name>1014000768</name>
+  <desc>model_review mod 2.51km st rearing 0.03km st spawning Smaller stream with other road just upstream. Should assess but unlikley high value habitaat.</desc>
+</wpt>
+<wpt lat="54.195721274718565" lon="-126.973248313770867">
+  <name>1014000819</name>
+  <desc>sfc mod 0.82km st rearing 0.82km st spawning Needs phase 1!</desc>
+</wpt>
+<wpt lat="54.318004789801662" lon="-126.898430908878154">
+  <name>1014000855</name>
+  <desc>model_review mod 1.24km st rearing 0km st spawning CT point upstream. Small split watershed with many intermittent tagged streams.</desc>
+</wpt>
+<wpt lat="54.238517962274486" lon="-127.144649093498117">
+  <name>1014001120</name>
+  <desc>model_review mod 1.02km st rearing 0km st spawning Fish noted in outlet pool. Huge outlet drop. Fish points upstream.</desc>
+</wpt>
+<wpt lat="54.773583825110279" lon="-127.40354554846445">
+  <name>1024600895</name>
+  <desc>model_review high 3.6km st rearing 1.91km st spawning Silvern Creek. Not yet assessed.  Large system.</desc>
+</wpt>
+<wpt lat="54.80526415070284" lon="-127.71303869552662">
+  <name>1024600913</name>
+  <desc>model_review high 5.64km st rearing 1.19km st spawning Duplicate of PSCIS 8530.  DV and CT confirmed. SFC recommends habitat confirmation</desc>
+</wpt>
+<wpt lat="54.816465812722313" lon="-127.522256464096998">
+  <name>1024601067</name>
+  <desc>model_review mod 0.53km st rearing 0km st spawning Adjacent to CO points with some lake/wetland upstream.</desc>
+</wpt>
+<wpt lat="54.781000800980848" lon="-127.68731192766198">
+  <name>1024601216</name>
+  <desc>sfc mod 0km st rearing 0km st spawning Not associated with mapped stream.  Seems unlikely to have significant amounts of high value habitat although could be crossing downstream of 8501 where there are DV known upstream. </desc>
+</wpt>
+<wpt lat="54.049560356238445" lon="-127.27888502387087">
+  <name>1024702220</name>
+  <desc>sfc mod 0.03km st rearing 0km st spawning SFC site with fish known upstream.</desc>
+</wpt>
+<wpt lat="54.590034724456686" lon="-126.914337466942797">
+  <name>1100001493</name>
+  <desc>cwf high 5.2km st rearing 0.9km st spawning NA</desc>
+</wpt>
+</gpx>
