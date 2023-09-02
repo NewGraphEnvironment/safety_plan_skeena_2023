@@ -45,12 +45,10 @@ options(knitr.kable.NAN = '--')
 
 source('R/packages.R')
 source('R/functions.R')
-# source('R/private_info.R')
 
-name_project_number <- '2022-049'
-# name_project_number2 <- '2021-040'
+name_project_number <- '2023-066'
 name_project_name <- 'sern-skeena-fish-passage'
-name_repo <- 'safety_plan_skeena_2022'
+name_repo <- 'safety_plan_skeena_2023'
 name_pdf <- 'safety_plan'
 name_project_complete <- paste0(name_project_number, '-', name_project_name)
 
@@ -69,9 +67,8 @@ font_set <- 9
 
 hotel1 <- 'Silverthorne RV park is located between Finning and the Sullivan Chevy dealership on the west side of town. The address is 1700 highway 16 but you could also type in Alix place which should bring you to the driveway as well. Contact Lance - 1 604 556 9903 - email: 399hflfibdi8v4u8b70ax17dv3oy@reply.airbnb.com'
 hotel2 <- '595 Poplar Park Rd, Kitimat-Stikine B, BC V0J 1Y0 - Carol 250-842-8794'
-hotel3 <- 'QRHW JX6 Smithers, British Columbia - 54.779045, -127.152596'
-hotel4 <- '4685-4637 13 Ave, New Hazelton, BC V0J 2J0 - Carol 250-842-8794'
-hotel5 <- '7523 Lake Kathlyn Rd, Smithers, BC V0J 2N2 - 54.830952, -127.212028'
+hotel3 <- '3305 Gillespie Road, Houston, BC V0J 1Z1, Canada - Lisa 250-631-3396'
+hotel4 <- '3876 Second Avenue, Smithers, BC V0J 2N0'
 
 
 
@@ -101,13 +98,12 @@ Al - `r vehicle1`:
 
 -   `r hotel1`
 -   `r hotel2`
--   `r hotel3`
 
 Mateo - `r vehicle2`:
 
--   `r hotel1`
+-   `r hotel3`
 -   `r hotel4`
--   `r hotel5`
+
 
 ```{r info-hospitals}
 hospital_name <- 'Houston Health Centre'
