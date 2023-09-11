@@ -1,0 +1,1035 @@
+<kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
+  <Document>
+    <name>mapping/sites_sern-skeena-fish-passage_20230910.kml</name>
+    <open>1</open>
+    <Folder>
+      <name>SpatialPointsDataFrame</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>8454</name>
+        <styleUrl>#pnt1</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 8454 </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Copper </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.91 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:left;border: 1px solid black;"> ZYMO </td>
+   <td style="text-align:left;border: 1px solid black;"> BT and DV confirmed. Two SFC priority sites upstream too. -- Small creek on side road.  Foot access due to major road failure.  Should remove culvert and cross ditch. -- Headed by small pond near height of land -- Small creek on side road.  Foot access due to major road failure.  Should remove culvert and cross ditch. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.8155 54.80904) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8454 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.81547,54.80904,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8530</name>
+        <styleUrl>#pnt2</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 8530 </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Copper </td>
+   <td style="text-align:right;border: 1px solid black;"> 23.99 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.21 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.65 </td>
+   <td style="text-align:left;border: 1px solid black;"> ZYMO </td>
+   <td style="text-align:left;border: 1px solid black;"> Duplicate.  Matched to wrong modelled crossing so corrected in bcfishpass. -- Barrier to fish.  Recommend embedding material in pipe due to its size to reduce water velocity. -- About 600m u/s of Zymoetz River confluence. -- Barrier to fish.  Recommend embedding material in pipe due to its size to reduce water velocity. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.7132 54.80517) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8530 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.71317,54.80517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8543</name>
+        <styleUrl>#pnt3</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 8543 </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Copper </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.51 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:left;border: 1px solid black;"> ZYMO </td>
+   <td style="text-align:left;border: 1px solid black;"> Just slightly highe than steelhead model criteria.  Close to McDonell Lake with fish upstream -- Fish survey required.  Embed pipe with 30% gravels to mimic stream channel. -- About 450m u/s of McDonnel Lake confluence; Cascade listed at crossing on Imap BC; -- Fish survey required.  Embed pipe with 30% gravels to mimic stream channel. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.5667 54.7899) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8543 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.56672,54.78990,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8547</name>
+        <styleUrl>#pnt4</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 8547 </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Copper </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.73 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:left;border: 1px solid black;"> ZYMO </td>
+   <td style="text-align:left;border: 1px solid black;"> CT (and potentially RB) confirmed.  Small lake mapped upstream. -- Recommend fish survey.  If positive then remove culvert and replace with open bottom structure. -- Possible SK at mouth; about 1.3km u/s of McDonnell L. confluence; another crossing near mouth. -- Recommend fish survey.  If positive then remove culvert and replace with open bottom structure. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.6005 54.79305) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8547 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.60052,54.79305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58067</name>
+        <styleUrl>#pnt5</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 58067 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Gramophone Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 23.86 </td>
+   <td style="text-align:right;border: 1px solid black;"> 3.52 </td>
+   <td style="text-align:right;border: 1px solid black;"> 4.72 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> NA -- Replace with OBS -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.2858 54.97087) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 58067 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.28584,54.97087,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58159</name>
+        <styleUrl>#pnt6</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 58159 </td>
+   <td style="text-align:left;border: 1px solid black;"> McDowell Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 10.36 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 7.45 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> Restoration likely forthcoming so sampling could inform monitoring program.   -- Stream flows through the Woodmere Nursury from small culvert on burn pile access road to the Highway.  Electrofishing conducted.  Abundant cover available primarily as overhanging vegetation and cobbles. Upstream culvert under Highway 16 has been recently replaced by horizontal drilling.  Baffles at upstream crossing.  Coho fry captured below the Highway crossing. -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.0204 54.67521) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 58159 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.02044,54.67521,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>123377</name>
+        <styleUrl>#pnt7</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 123377 </td>
+   <td style="text-align:left;border: 1px solid black;"> Thompson Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 33.5 </td>
+   <td style="text-align:right;border: 1px solid black;"> 4.87 </td>
+   <td style="text-align:right;border: 1px solid black;"> 8.76 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> Would be good to get baseline conditions for species composition and abundance. -- Install baffles in culverts, or replace with OBS - 2 culverts present -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.809 54.57223) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 123377 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.80897,54.57223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>124500</name>
+        <styleUrl>#pnt8</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 124500 </td>
+   <td style="text-align:left;border: 1px solid black;"> Helps Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 36.57 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.84 </td>
+   <td style="text-align:right;border: 1px solid black;"> 11.8 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> Species compositionupstream and downstream could be insighful for prioritization and baseline if Telkwa Coal helps move this one ahead. -- Wetland type habitat upstream with stream channel containing abundant gravels downstream. -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.0228 54.65954) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 124500 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.02277,54.65954,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>195943</name>
+        <styleUrl>#pnt9</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 195943 </td>
+   <td style="text-align:left;border: 1px solid black;"> Stock Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 23.12 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.74 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> NA -- No access, install OBS and restore channel -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.7572 54.44226) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 195943 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.75715,54.44226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197365</name>
+        <styleUrl>#pnt10</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197365 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Owen Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 10.56 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.66 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Flow looks good in photos. -- 70 cm falls 3m upstream -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.8005 54.15719) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197365 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.80051,54.15719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197378</name>
+        <styleUrl>#pnt11</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197378 </td>
+   <td style="text-align:right;border: 1px solid black;"> 12.33 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.94 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.7802 54.11705) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197378 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.78023,54.11705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197379</name>
+        <styleUrl>#pnt12</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197379 </td>
+   <td style="text-align:left;border: 1px solid black;"> Unnamed </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.84 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.12 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.84 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Would be good to know what fish are here. Good site for tagging? -- NA -- Sediment entering stream from fill slope; headed by at least 2 small lakes. -- Replace RMC with OBS </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.84 54.18203) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197379 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.83997,54.18203,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197640</name>
+        <styleUrl>#pnt13</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197640 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Buck Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 19.96 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.96 </td>
+   <td style="text-align:right;border: 1px solid black;"> 4.65 </td>
+   <td style="text-align:left;border: 1px solid black;"> BULK </td>
+   <td style="text-align:left;border: 1px solid black;"> Design in progress so sampling could inform monitoring program.  Unlikley to have time for this this year though. -- Large tributary on section of tributary connected to salmon bearing Buck Creek.  Fish rising in outlet pool (estimated 130mm).  Some cattle access points downstream. -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.6322 54.23614) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197640 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.63224,54.23614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197949</name>
+        <styleUrl>#pnt14</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197949 </td>
+   <td style="text-align:right;border: 1px solid black;"> 6.16 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.2452 54.22832) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197949 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.24517,54.22832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197962</name>
+        <styleUrl>#pnt15</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 197962 </td>
+   <td style="text-align:left;border: 1px solid black;"> Peacock Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 6.14 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2.98 </td>
+   <td style="text-align:right;border: 1px solid black;"> 4.89 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Site remediated. Long term monitoring required but could wait another year as work was conducted late last summer and we might expect CO moving in this fall.. -- Historic side channel for fish passage not functioning. 17:47 -- Concrete weir built mid-90's as retrofit, currently not functioning; further ass't required; High Priority. -- Replace RMC with OBS </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.7921 54.3606) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197962 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.79213,54.36060,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198008</name>
+        <styleUrl>#pnt16</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 198008 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Nanika River </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.6 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Site should be reassessed as we surveyed the wrong upstream channel in 2021. -- Stream has good flow, well developed channel. 12:50 -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.3761 54.01832) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 198008 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.37607,54.01832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198060</name>
+        <styleUrl>#pnt17</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 198060 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Owen Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 7.01 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2.03 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Was passable when assessed in 2021. -- Very nice gravels. Some flow. Passable currently but may by higher velocity at higher flows. 8:59 -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.7967 54.14676) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 198060 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.79674,54.14676,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198064</name>
+        <styleUrl>#pnt18</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 198064 </td>
+   <td style="text-align:left;border: 1px solid black;"> Tributary to Lamprey Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.05 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.77 </td>
+   <td style="text-align:left;border: 1px solid black;"> MORR </td>
+   <td style="text-align:left;border: 1px solid black;"> Hab con completed. Sampling may be enlightening but habitat not stellar. -- Habitat confirmation conducted.  Fish observed (150mm). Good flows when compared to many other streams. 9:25 -- NA -- NA </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.1117 54.13584) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 198064 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.11167,54.13584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198217</name>
+        <styleUrl>#pnt19</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 198217 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.74 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.16 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.49 </td>
+   <td style="text-align:left;border: 1px solid black;"> KISP </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.6942 55.31427) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 198217 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.69418,55.31427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198225</name>
+        <styleUrl>#pnt20</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_network_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_spawning_km </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> st_rearing_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_group_code </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geometry </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;border: 1px solid black;"> 198225 </td>
+   <td style="text-align:left;border: 1px solid black;"> Sterritt Creek </td>
+   <td style="text-align:right;border: 1px solid black;"> 3.39 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.64 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.29 </td>
+   <td style="text-align:left;border: 1px solid black;"> KISP </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.6556 55.51121) </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 198225 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.65563,55.51121,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
