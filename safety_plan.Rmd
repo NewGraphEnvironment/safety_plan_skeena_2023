@@ -313,7 +313,7 @@ We are running digital field form tests using a product called [Mergin Maps](htt
 
 <br>
 
-A guide to freshwater fish id such as @mcphail_carveth1993FieldKey can be useful and can be downloaded [here](https://a100.gov.bc.ca/pub/acat/documents/r13659/486FieldKeytoFreshwaterFishes1993Part1of2_1210014849226_8e248a8d30d97e6c45ef54a340babd2ffb57b14a3b16.pdf).
+A guide to freshwater fish id such as @mcphail_carveth1993FieldKey can be useful and can be downloaded [here](https://www.zoology.ubc.ca/~etaylor/nfrg/fresh.pdf).
 
 
 
@@ -381,13 +381,22 @@ sites_background <- sf::st_read(
 ##pull out what we need from the database
 # see usethis::edit_r_environ
 
+# conn <- DBI::dbConnect(
+#   RPostgres::Postgres(),
+#   dbname = Sys.getenv('PG_DB_SHARE'),
+#   host = Sys.getenv('PG_HOST_SHARE'),
+#   port = Sys.getenv('PG_PORT_SHARE'),
+#   user = Sys.getenv('PG_USER_SHARE'),
+#   password = Sys.getenv('PG_PASS_SHARE')
+# )
+
 conn <- DBI::dbConnect(
   RPostgres::Postgres(),
-  dbname = Sys.getenv('PG_DB_SHARE'),
-  host = Sys.getenv('PG_HOST_SHARE'),
-  port = Sys.getenv('PG_PORT_SHARE'),
-  user = Sys.getenv('PG_USER_SHARE'),
-  password = Sys.getenv('PG_PASS_SHARE')
+  dbname = Sys.getenv('PG_DB_DEV'),
+  host = Sys.getenv('PG_HOST_DEV'),
+  port = Sys.getenv('PG_PORT_DEV'),
+  user = Sys.getenv('PG_USER_DEV'),
+  password = Sys.getenv('PG_PASS_DEV')
 )
 
 # grab the crossings data from the digital ocean database

@@ -1,6 +1,6 @@
 <kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
   <Document>
-    <name>mapping/sites_sern-skeena-fish-passage_20230910.kml</name>
+    <name>mapping/sites_sern-skeena-fish-passage_20230917.kml</name>
     <open>1</open>
     <Folder>
       <name>SpatialPointsDataFrame</name>
@@ -362,12 +362,12 @@
   <tr>
    <td style="text-align:right;border: 1px solid black;"> 8530 </td>
    <td style="text-align:left;border: 1px solid black;"> Trib to Copper </td>
-   <td style="text-align:right;border: 1px solid black;"> 23.99 </td>
-   <td style="text-align:right;border: 1px solid black;"> 1.21 </td>
-   <td style="text-align:right;border: 1px solid black;"> 5.65 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2.58 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> ZYMO </td>
    <td style="text-align:left;border: 1px solid black;"> Duplicate.  Matched to wrong modelled crossing so corrected in bcfishpass. -- Barrier to fish.  Recommend embedding material in pipe due to its size to reduce water velocity. -- About 600m u/s of Zymoetz River confluence. -- Barrier to fish.  Recommend embedding material in pipe due to its size to reduce water velocity. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.7132 54.80517) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.7128 54.80512) </td>
    <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8530 </td>
   </tr>
 </tbody>
@@ -375,7 +375,7 @@
         <Point>
           <extrude>1</extrude>
           <altitudeMode>clampToGround</altitudeMode>
-          <coordinates>-127.71317,54.80517,0</coordinates>
+          <coordinates>-127.71284,54.80512,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -474,7 +474,7 @@
    <td style="text-align:right;border: 1px solid black;"> 58067 </td>
    <td style="text-align:left;border: 1px solid black;"> Tributary to Gramophone Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 23.86 </td>
-   <td style="text-align:right;border: 1px solid black;"> 3.52 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2.66 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.72 </td>
    <td style="text-align:left;border: 1px solid black;"> BULK </td>
    <td style="text-align:left;border: 1px solid black;"> NA -- Replace with OBS -- NA -- NA </td>
@@ -549,7 +549,7 @@
    <td style="text-align:left;border: 1px solid black;"> Thompson Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 33.5 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.87 </td>
-   <td style="text-align:right;border: 1px solid black;"> 8.76 </td>
+   <td style="text-align:right;border: 1px solid black;"> 9.51 </td>
    <td style="text-align:left;border: 1px solid black;"> BULK </td>
    <td style="text-align:left;border: 1px solid black;"> Would be good to get baseline conditions for species composition and abundance. -- Install baffles in culverts, or replace with OBS - 2 culverts present -- NA -- NA </td>
    <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.809 54.57223) </td>
@@ -586,7 +586,7 @@
    <td style="text-align:left;border: 1px solid black;"> Helps Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 36.57 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.84 </td>
-   <td style="text-align:right;border: 1px solid black;"> 11.8 </td>
+   <td style="text-align:right;border: 1px solid black;"> 11.75 </td>
    <td style="text-align:left;border: 1px solid black;"> BULK </td>
    <td style="text-align:left;border: 1px solid black;"> Species compositionupstream and downstream could be insighful for prioritization and baseline if Telkwa Coal helps move this one ahead. -- Wetland type habitat upstream with stream channel containing abundant gravels downstream. -- NA -- NA </td>
    <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.0228 54.65954) </td>
@@ -623,7 +623,7 @@
    <td style="text-align:left;border: 1px solid black;"> Stock Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 23.12 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:right;border: 1px solid black;"> 0.74 </td>
+   <td style="text-align:right;border: 1px solid black;"> 8.09 </td>
    <td style="text-align:left;border: 1px solid black;"> BULK </td>
    <td style="text-align:left;border: 1px solid black;"> NA -- No access, install OBS and restore channel -- NA -- NA </td>
    <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-126.7572 54.44226) </td>
@@ -801,7 +801,7 @@
    <td style="text-align:right;border: 1px solid black;"> 197949 </td>
    <td style="text-align:right;border: 1px solid black;"> 6.16 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.49 </td>
    <td style="text-align:left;border: 1px solid black;"> MORR </td>
    <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.2452 54.22832) </td>
    <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 197949 </td>
@@ -948,7 +948,7 @@
    <td style="text-align:left;border: 1px solid black;"> Tributary to Lamprey Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 5.05 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:right;border: 1px solid black;"> 0.77 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.81 </td>
    <td style="text-align:left;border: 1px solid black;"> MORR </td>
    <td style="text-align:left;border: 1px solid black;"> Hab con completed. Sampling may be enlightening but habitat not stellar. -- Habitat confirmation conducted.  Fish observed (150mm). Good flows when compared to many other streams. 9:25 -- NA -- NA </td>
    <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (-127.1117 54.13584) </td>
